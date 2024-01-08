@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/transMonitor/static/css/main.b2fae8c5.css",
+    "main.js": "/transMonitor/static/js/main.21e702e2.js",
+    "static/js/787.6246baa2.chunk.js": "/transMonitor/static/js/787.6246baa2.chunk.js",
+    "static/media/jpeg": "/transMonitor/static/media/2071c9fb6aac4865b76bb203111dfa5d.f28c3fb548c2bd17afce.jpeg",
+    "index.html": "/transMonitor/index.html",
+    "main.b2fae8c5.css.map": "/transMonitor/static/css/main.b2fae8c5.css.map",
+    "main.21e702e2.js.map": "/transMonitor/static/js/main.21e702e2.js.map",
+    "787.6246baa2.chunk.js.map": "/transMonitor/static/js/787.6246baa2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2fae8c5.css",
+    "static/js/main.21e702e2.js"
+  ]
+}
